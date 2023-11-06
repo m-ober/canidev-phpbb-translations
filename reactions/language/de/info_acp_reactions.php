@@ -22,7 +22,7 @@ if(empty($lang) || !is_array($lang))
 $lang = array_merge($lang, [
 	'ACP_REACTIONS'			=> 'Reaktionen',
 	'ACP_REACTIONS_CONFIG'	=> 'Konfiguration',
-	'ACP_REACTIONS_MANAGE'	=> 'Reaktionen konfigurieren',
+	'ACP_REACTIONS_MANAGE'	=> 'Reaktionen verwalten',
 
 	'EXT_INSTALL_ERROR'		=> 'Diese Erweiterung ist inkompatibel mit bereits installierten Erweiterungen.<br />Für weitere Informationen bitte die Dokumentation lesen.',
 	'CORE_INSTALL_ERROR'	=> 'Es wurden nicht alle Dateien aus dem Installationspaket hochgeladen oder es wird versucht, eine alte Version zu installieren.<br />
